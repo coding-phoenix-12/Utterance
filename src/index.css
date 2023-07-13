@@ -1,0 +1,28 @@
+body {
+  margin: 100px;
+  padding: 10px;
+}
+
+.option-radio{
+  width: 25px;
+  height: 25px;
+}
+
+.audio-wrapper{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 24px 0px 24px 0px;
+  
+}
+
+.audio-player{
+  transform: scale(2);
+  
+}
+
+.text-box{
+  width: 500px; 
+  height: 30px
+
+}
